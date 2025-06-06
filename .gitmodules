@@ -1,12 +1,36 @@
-[submodule "src/modules/rule-engine-manager-ui"]
-	path = src/modules/rule-engine-manager-ui
-	url = git@github.com:jetlinks-v2/rule-engine-manager-ui.git
-[submodule "src/modules/notify-manager-ui"]
-	path = src/modules/notify-manager-ui
-	url = git@github.com:jetlinks-v2/notify-manager-ui.git
-[submodule "src/modules/device-manager-ui"]
-	path = src/modules/device-manager-ui
-	url = git@github.com:jetlinks-v2/device-manager-ui.git
+[submodule "src/modules/data-collector-ui"]
+	path = src/modules/data-collector-ui
+	url = git@github.com:aping-source/data-collector-ui.git
+[submodule "src/modules/datasource-manager-ui"]
+	path = src/modules/datasource-manager-ui
+	url = git@github.com:aping-source/datasource-manager-ui.git
+[submodule "src/modules/jetlinks-aliyun-bridge-gateway-ui"]
+	path = src/modules/jetlinks-aliyun-bridge-gateway-ui
+	url = git@github.com:aping-source/jetlinks-aliyun-bridge-gateway-ui.git
+[submodule "src/modules/jetlinks-dueros-ui"]
+	path = src/modules/jetlinks-dueros-ui
+	url = git@github.com:aping-source/jetlinks-dueros-ui.git
+[submodule "src/modules/jetlinks-media-ui"]
+	path = src/modules/jetlinks-media-ui
+	url = git@github.com:aping-source/jetlinks-media-ui.git
+[submodule "src/modules/jetlinks-work-order-ui"]
+	path = src/modules/jetlinks-work-order-ui
+	url = git@github.com:aping-source/jetlinks-work-order-ui.git
+[submodule "src/modules/network-card-manager-ui"]
+	path = src/modules/network-card-manager-ui
+	url = git@github.com:aping-source/network-card-manager-ui.git
+[submodule "src/modules/resources-client-ui"]
+	path = src/modules/resources-client-ui
+	url = git@github.com:aping-source/resources-client-ui.git
 [submodule "src/modules/authentication-manager-ui"]
 	path = src/modules/authentication-manager-ui
-	url = git@github.com:jetlinks-v2/authentication-manager-ui.git
+	url = git@github.com:aping-source/authentication-manager-ui.git
+[submodule "src/modules/device-manager-ui"]
+	path = src/modules/device-manager-ui
+	url = git@github.com:aping-source/device-manager-ui.git
+[submodule "src/modules/notify-manager-ui"]
+	path = src/modules/notify-manager-ui
+	url = git@github.com:aping-source/notify-manager-ui.git
+[submodule "src/modules/rule-engine-manager-ui"]
+	path = src/modules/rule-engine-manager-ui
+	url = git@github.com:aping-source/rule-engine-manager-ui.git
